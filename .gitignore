@@ -3,3 +3,7 @@ package-lock.json
 .idea
 node_modules
 .DS_Store
+src/*
+public/*
+build/static/css/*.map
+build/static/js/*.map
